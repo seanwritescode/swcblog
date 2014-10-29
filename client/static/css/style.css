@@ -1374,4 +1374,12 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
   .footer-2 .social-btns {
     margin: 25px 0 10px;
   }
+
+  .code {
+    padding: 2px 6px;
+    font-size: 85%;
+    color: #c7254e;
+    background-color: #f9f2f4;
+    border-radius: 4px;
+  }
 }
