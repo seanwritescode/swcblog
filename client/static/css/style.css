@@ -2,6 +2,13 @@
   border-bottom-color: #34495e !important;
   border-top-color: #34495e !important;
 }
+.code {
+  padding: 2px 6px;
+  font-size: 85%;
+  color: #c7254e;
+  background-color: #f9f2f4;
+  border-radius: 4px;
+}
 /* styles from flat-ui-free2.0.0-fix.less files */
 body {
   color: #34495e;
@@ -1373,13 +1380,5 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
   }
   .footer-2 .social-btns {
     margin: 25px 0 10px;
-  }
-
-  .code {
-    padding: 2px 6px;
-    font-size: 85%;
-    color: #c7254e;
-    background-color: #f9f2f4;
-    border-radius: 4px;
   }
 }
