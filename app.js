@@ -1,7 +1,7 @@
 var middleware = require('./server/app-middleware.js');
 
 // Constants
-var PORT = 3000;
+var PORT = 80;
 
 // App
 var app = middleware();
